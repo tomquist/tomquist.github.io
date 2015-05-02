@@ -14,7 +14,7 @@ url:              http://quist.de
 baseurl:          
 
 disqus:           tomquist
-google_analytics:
+google_analytics: UA-20360156-3
 
 author:
   name:           Tom Quist
