@@ -28,6 +28,10 @@ tags:
 - samygo
 - tv
 - android
+screenshots:
+- screenshot3.png
+- screenshot5.png
+- screenshot4.png
 ---
 ![qrcode](http://qrcode.kaywa.com/img.php?s=3&d=https%3a%2f%2fplay.google.com%2fstore%2fapps%2fdetails%3fid%3dde.quist.app.samyGoRemote)
 
@@ -35,9 +39,7 @@ Dank des [SamyGo Projektes](http://samygo.tv/) wurde mein gewöhnlicher Fernsehe
 
 Da es für die B-Serie momentan nur einen [Client für Windows](http://wiki.samygo.tv/index.php5/Desktop_applications_list#Remote_LAN_Control) gibt und der Android Client für die C-Serie und D-Serie nur auf Samsung Geräten läuft, habe ich einen Android-Client geschrieben. Das Ergebnis sieht folgendermaßen aus und kann ab sofort im [Android Play Store heruntergeladen](https://play.google.com/store/apps/details?id=de.quist.app.samyGoRemote) werden.
 
-![]({{ '/assets/screenshot3.png' | prepend: site.baseurl }} "SamyGo-Remote1")
-![]({{ '/assets/screenshot5.png' | prepend: site.baseurl }} "SamyGo-Remote2")
-![]({{ '/assets/screenshot4.png' | prepend: site.baseurl }} "SamyGo-Remote3")
+{% for screen in page.screenshots %}<img src="{{ screen | prepend: '/assets/' | prepend: site.baseurl | replace: '//', '/' }}" alt="MyMensa" style="display: inline-block; margin: 5px; border: 1px solid black;"/>{% endfor %}
 
 Die App funktioniert nur zusammen mit B-Series Fernsehern (**Edit**: _Jetzt auch für C-Serie und D-Serie Fernseher, ohne "Remote Lan Control"_) von Samsung, da "Remote Lan Control" momentan nur auf diesen Geräten läuft. Für C-Series Geräte gibt es zwar schon eine Ferbedienungs-App von Samsung, die läuft aber auch nur auf Samsung-Geräten. C-Series Geräte unterstützen deshalb schon von Haus aus das Empfangen von Fernbedienungs-Signalen über das Netzwerk (mittels UPnP), <del>aber ich hab keine Ahnung wie ich das genau ansteuere. Falls jemand ein C-Series Gerät besitzt und interesse daran hat, dass die App auch mit diesen Fernsehern läuft, könnte z.B. mit dem [UPnP Inspector](http://coherence.beebits.net/wiki/UPnP-Inspector) versuchen mehr herauszufinden.</del>
 

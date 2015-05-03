@@ -29,6 +29,10 @@ tags:
 - install
 - how-to
 - instruction
+screenshots:
+- screenshot3.png
+- screenshot5.png
+- screenshot4.png
 ---
 ![qrcode](http://qrcode.kaywa.com/img.php?s=3&d=https%3a%2f%2fplay.google.com%2fstore%2fapps%2fdetails%3fid%3dde.quist.app.samyGoRemote)
 
@@ -36,9 +40,7 @@ Thanks to the [SamyGo Projec](http://samygo.tv/)t my TV [Samsung LE37B650](ht
 
 Because there only was a [Windows-client](http://wiki.samygo.tv/index.php5/Content_Library_applications_list#Remote_LAN_Control) for B-Series TVs and the android client from Samsung only runs on Samsung devices, I wrote an Android-Client to be able to control the TV using my android phone. The result can be [downloaded from the Android Play Store](https://play.google.com/store/apps/details?id=de.quist.app.samyGoRemote).
 
-![]({{ '/assets/screenshot3.png' | prepend: site.baseurl }} "SamyGo-Remote1")
-![]({{ '/assets/screenshot5.png' | prepend: site.baseurl }} "SamyGo-Remote2")
-![]({{ '/assets/screenshot4.png' | prepend: site.baseurl }} "SamyGo-Remote3")
+{% for screen in page.screenshots %}<img src="{{ screen | prepend: '/assets/' | prepend: site.baseurl | replace: '//', '/' }}" alt="MyMensa" style="display: inline-block; margin: 5px; border: 1px solid black;"/>{% endfor %}
 
 <del>The app only works for B-Series TVs from Samsung, because "Remote Lan Control" only runs on these devices.</del> C-Series, D-Series and E-Series TVs are now also supported without needing to modify the TV. Samsung created a remote-app for C-Series TVs but it only runs on the iPhone or on Android devices produces by Samsung. C-Series devices are able to receive remote signals over the network from scratch (using UPnP) <del>but I've no idea how to access the interface and I'm not able to analyse it, because I don't have such a device.</del>
 
