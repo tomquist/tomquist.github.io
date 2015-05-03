@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Tomblog
 tagline:          Software engineer and mobile technology enthusiast
 description:      Software engineer and mobile technology enthusiast
-url:              http://quist.de
+url:              http://blog.quist.de
 baseurl:          
 
 disqus:           tomquist
