@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-redirect_from:
-- /2011/02/samsung-fernseher-per-android-fernsteuern/
+permalink: /2011/02/samsung-fernseher-per-android-fernsteuern/
 title: SamyGo Remote - Android als Samsung Fernbedienung
 author:
   display_name: Tom

@@ -60,3 +60,5 @@ MyMensa ist die erste und Community Mensa-App im [App Store](https://itunes.appl
 Eine Liste der unterstützten Mensen findest du hier: [http://mymensa.eu/mensa-list](http://mymensa.eu/mensa-list)
 
 {% for screen in page.screenshots %}<img src="{{ screen | prepend: '/assets/' | prepend: site.baseurl | replace: '//', '/' }}" alt="MyMensa" style="display: inline-block; margin: 5px; border: 1px solid black;"/>{% endfor %}
+
+{% include disqus-comments.html %}

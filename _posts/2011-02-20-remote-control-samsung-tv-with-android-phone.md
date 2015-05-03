@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-redirect_from:
-- /2011/02/remote-control-samsung-tv-with-android-phone/
+permalink: /2011/02/remote-control-samsung-tv-with-android-phone/
 title: SamyGo Remote - Control your Samsung TV with Android
 author:
   display_name: Tom
