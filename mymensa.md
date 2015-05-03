@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: MyMensa
+permalink: mymensa/
 author:
   display_name: Tom
   login: tom
