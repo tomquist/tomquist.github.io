@@ -43,7 +43,7 @@ screenshots:
 - mymensa4.jpeg
 - mymensa5.jpeg
 ---
-MyMensa ist die erste und Community Mensa-App im [App Store](https://itunes.apple.com/de/app/mymensa-mensa-speiseplan/id498868290) und im [Android Play Store](https://play.google.com/store/apps/details?id=de.quist.app.mymensa), bei der du Mahlzeiten aus dem Speiseplan deiner Mensa bewerten, kommentieren und fotografieren kannst. Schau dir auf Fotos anderer Benutzer oder deiner Mensa an wie die Mahlzeiten aussehen und wie es anderen geschmeckt hat, noch vor deinem Mensa-Besuch. MyMensa kann auch offline genutzt werden, sobald der Speiseplan ein mal heruntergeladen wurde. Die Android Pro-Version enthält außerdem zusätzlich ein Widget für den Homescreen.  
+MyMensa ist die erste Community-Mensa-App im [App Store](https://itunes.apple.com/de/app/mymensa-mensa-speiseplan/id498868290) und im [Android Play Store](https://play.google.com/store/apps/details?id=de.quist.app.mymensa), bei der du Mahlzeiten aus dem Speiseplan deiner Mensa bewerten, kommentieren und fotografieren kannst. Schau dir auf Fotos anderer Benutzer oder deiner Mensa an, wie die Mahlzeiten aussehen und wie es anderen geschmeckt hat, noch vor deinem Mensa-Besuch. MyMensa kann auch offline genutzt werden, sobald der Speiseplan ein mal heruntergeladen wurde. Die Android Pro-Version enthält außerdem zusätzlich ein Widget für den Homescreen.  
 <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMyMensa%2F119294151461718&amp;width=292&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowtransparency="true"></iframe>
 
 **Features im Überblick:**
