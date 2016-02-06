@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        /:year/:month/:title/
-relative_permalinks: true
 
 # Setup
 title:            Tomblog
@@ -31,6 +30,7 @@ github:
 gems:
 - jekyll-redirect-from
 - jekyll-sitemap
+- jekyll-paginate
 
 exclude:
 - Gemfile
