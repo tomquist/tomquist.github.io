@@ -32,7 +32,7 @@ screenshots:
 - screenshot5.png
 - screenshot4.png
 ---
-![qrcode](http://qrcode.kaywa.com/img.php?s=3&d=https%3a%2f%2fplay.google.com%2fstore%2fapps%2fdetails%3fid%3dde.quist.app.samyGoRemote)
+![qrcode](https://qrcode.kaywa.com/img.php?s=3&d=https%3a%2f%2fplay.google.com%2fstore%2fapps%2fdetails%3fid%3dde.quist.app.samyGoRemote)
 
 Dank des [SamyGo Projektes](http://samygo.tv/) wurde mein gewöhnlicher Fernseher [Samsung LE37B650](http://www.samsung.com/de/support/model/LE37B650T2PXZG) zum High-Tech Gerät. Da er einen Netzwerkanschluss besitzt und von Werk aus Linux darauf läuft, kann man damit einige [Dinge](http://wiki.samygo.tv/index.php5/Content_Library_applications_list) anstellen. So kann man sich zum Beispiel einen Server installieren der Fernbedienungs-Signale auch per LAN annimmt. Dafür installiert man sich beispielsweise über die Content-Library die Anwendung "[Remote Lan Control](http://wiki.samygo.tv/index.php5/Content_Library_applications_list#Remote_LAN_Control)". Wie das geht, wird unten erklärt. Für C-Serie und D-Serie Geräte ist das nicht einmal notwendig, diese haben einen entsprechenden Server von Haus aus installiert.
 
