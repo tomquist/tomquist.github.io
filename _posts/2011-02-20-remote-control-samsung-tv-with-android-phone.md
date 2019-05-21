@@ -33,7 +33,7 @@ screenshots:
 - screenshot5.png
 - screenshot4.png
 ---
-![qrcode](http://qrcode.kaywa.com/img.php?s=3&d=https%3a%2f%2fplay.google.com%2fstore%2fapps%2fdetails%3fid%3dde.quist.app.samyGoRemote)
+![qrcode](https://qrcode.kaywa.com/img.php?s=3&d=https%3a%2f%2fplay.google.com%2fstore%2fapps%2fdetails%3fid%3dde.quist.app.samyGoRemote)
 
 Thanks to the [SamyGo Project](http://samygo.tv/) my TV [Samsung LE37B650](http://www.samsung.com/de/support/model/LE37B650T2PXZG) became a high-tech device. Because it has an ethernet port and runs Linux, it enables you to do many cool [things](http://wiki.samygo.tv/index.php5/Content_Library_applications_list) with it. For example one can run a server application which receives remote signals through your LAN. Therefore you have to install "[Remote Lan Control](http://wiki.samygo.tv/index.php5/Content_Library_applications_list#Remote_LAN_Control)" which can be done using the content library (only necessary on B-Series). For a how-to see below!
 
